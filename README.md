@@ -12,7 +12,7 @@ Yunhui Luo, Sept.7, 2021
 
 3) subprocedures creating the tables and figures
 
-3.1) for the paper:
+3.1) for the primary manuscript:
         mainGSCubepTab12.m
         mainDiffClusNumTab3.m
         mainOnceClusTab4.m
