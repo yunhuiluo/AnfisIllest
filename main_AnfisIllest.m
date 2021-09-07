@@ -9,13 +9,13 @@ data=load('dataTrain.mat');
 disp('Load data from dataTrain.mat');
 data=data.dataTrain;
 
-%% experiment: tesing for the tables and figures in the paper
+%% experiment: tesing for the tables and figures in the primary manuscript and supplementary document
 % paper
 mainGSCubepTab12
 mainDiffClusNumTab3
 mainOnceClusTab4
 mainQualityGehlerShiFig2S3
-% supplemental materials
+% supplementary materials
 mainPlotMembershipFigS2
 mainQualityFigS456
 mainMinAEsHistFigS7
