@@ -1,7 +1,7 @@
 # AnfisIllest
 Illuminant estimation using adaptive neuro-fuzzy interference system
 
-Yunhui Luo, Sept.7, 2021
+Yunhui Luo, Sept 7, 2021
 
 - 1) data files: 
         dataTrain.mat
@@ -12,13 +12,13 @@ Yunhui Luo, Sept.7, 2021
 
 - 3) subprocedures creating the tables and figures
 
-3.1) for the primary manuscript:
+-- 3.1) for the primary manuscript:
         mainGSCubepTab12.m
         mainDiffClusNumTab3.m
         mainOnceClusTab4.m
         mainQualityGehlerShiFig2S3.m
         
-3.2) for the supplementary materials:
+-- 3.2) for the supplementary materials:
         mainPlotMembershipFigS2.m
         mainQualityFigS456.m
         mainMinAEsHistFigS7.m
