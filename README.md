@@ -1,5 +1,5 @@
 # AnfisIllest
-Illuminant estimation using adaptive neuro-fuzzy interference system
+Illuminant estimation using adaptive neuro-fuzzy inference system
 
 Yunhui Luo, Sept 7, 2021
 
