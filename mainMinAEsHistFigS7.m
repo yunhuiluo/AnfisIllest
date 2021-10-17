@@ -1,6 +1,6 @@
 %% show histogram of minimal AEs' distribution for all images
 % data=load('dataTrain.mat');data=data.data;
-AEs = data.colorangle;
+AEs = dataTrain.colorangle;
 minAEs = min(AEs,[],2); % max(minAEs)
 %histogram(minAEs);
 edges = (1:17);
