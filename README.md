@@ -12,27 +12,23 @@ Yunhui Luo, Sept 7, 2021
 
 ###### 3) subprocedures creating the tables and figures
 
-3.1) for the primary manuscript:
+% for tables in paper
+mainTab23_GSCubep 
+mainTab4_DiffClusNum
+mainTab5_SelectAlgo
+mainTab6_SparseWeight
+mainTab7_OnceClus
 
-        mainGSCubepTab12.m
-        
-        mainDiffClusNumTab3.m
-        
-        mainOnceClusTab4.m
-        
-        mainQualityGehlerShiFig2S3.m
-        
-3.2) for the supplementary materials:
+% for figures in paper
+mainFig2_PlotMembership 
+mainFig34_QualityGehlerShi
+mainFig567_QualityCubep
+mainFig8_MinAEs %discarded
 
-        mainPlotMembershipFigS2.m
-        
-        mainQualityFigS456.m
-        
-        mainMinAEsHistFigS7.m
-        
-        mainSelectAlgoTabS2.m
-        
-        mainSparseWeightTabS3.m
+% additional experiment
+mainCrossDatasetExperiment
+mainOtherExperiment
+
 
 ###### 4) supporting function folders:
 
