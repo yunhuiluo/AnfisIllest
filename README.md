@@ -12,22 +12,32 @@ Yunhui Luo, Sept 7, 2021
 
 ###### 3) subprocedures creating the tables and figures
 
-% for tables in paper
-mainTab23_GSCubep 
-mainTab4_DiffClusNum
-mainTab5_SelectAlgo
-mainTab6_SparseWeight
-mainTab7_OnceClus
+        1) % for tables in paper
+        mainTab23_GSCubep 
 
-% for figures in paper
-mainFig2_PlotMembership 
-mainFig34_QualityGehlerShi
-mainFig567_QualityCubep
-mainFig8_MinAEs %discarded
+        mainTab4_DiffClusNum
 
-% additional experiment
-mainCrossDatasetExperiment
-mainOtherExperiment
+        mainTab5_SelectAlgo
+
+        mainTab6_SparseWeight
+
+        mainTab7_OnceClus
+
+        2) % for figures in paper
+
+        mainFig2_PlotMembership 
+
+        mainFig34_QualityGehlerShi
+
+        mainFig567_QualityCubep
+
+        mainFig8_MinAEs %discarded
+
+        3) % additional experiment
+
+        mainCrossDatasetExperiment
+        
+        mainOtherExperiment
 
 
 ###### 4) supporting function folders:
